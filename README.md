@@ -1,17 +1,4 @@
-
-2. What is the purpose of the -n option in kubectl get?<br>
-
-kubectl get services
-
-![Image](https://github.com/user-attachments/assets/172f1ec3-3ef8-42eb-a5a4-549a838f0cb3)
-
-kubectl get pods,services -n kube-system
-
-![Image](https://github.com/user-attachments/assets/8c20307b-a04a-43b1-ba46-23dde4943047)
-
-
 # Kubernetes Deployment Guide
-
 ## 1. Comparing Application Logs Before and After Service Exposure
 
 ![Image](https://github.com/user-attachments/assets/f13f75e8-10fa-4848-a6ab-fd94e05c858a)
